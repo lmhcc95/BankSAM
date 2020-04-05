@@ -8,5 +8,7 @@
 </head>
 <body>
 	welcome to index....02 add by xiaodi
+	i am bill,hi
+	you can here mi?
 </body>
 </html>
