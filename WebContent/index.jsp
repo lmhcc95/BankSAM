@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	welcome to index....02
+	welcome to index....02 add by xiaodi
 </body>
 </html>
